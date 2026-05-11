@@ -62,3 +62,4 @@ botaoScanear.onclick =async()=>{
         //habilita o botão para uma nova leitura
         botaoScanear.disabled=false;
     }
+}
