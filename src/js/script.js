@@ -58,3 +58,4 @@ botaoScanear.onclick = async () => {
         botaoScanear.disabled = false;
     }
 };
+// teste
